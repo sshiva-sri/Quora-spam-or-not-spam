@@ -6,6 +6,12 @@
 
 Predicting given a Quora question is genuine or spam. 
 
+•Problems Faced:
+---------------
+Main problem faced was 4GB RAM was not sufficient, system got stuck once started with the training the model.
+
+So tried processing in Kaggle Kernel( https://www.kaggle.com/) . Training the model utilized 10GB of RAM
+
 •	Solution:
 ------------
 
