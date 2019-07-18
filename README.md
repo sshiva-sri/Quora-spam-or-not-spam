@@ -14,4 +14,4 @@ Data that was available for modelling included question ID, question description
 •	Experiments : 
 ----------------
 
-Built models using CNN and LSTM. Using F1 score as the metric LSTM gave better metrics compared to CNN model.
+Built models using CNN and LSTM. Using F1 score as the metric CNN gave better metrics compared to LSTM model.
